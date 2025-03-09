@@ -1,4 +1,4 @@
-JavaScript is one of the most popular programming languages in 2022 and likely many more years to come. Learn the worse part of it to become a better developer.
+#JavaScript is one of the most popular programming languages in 2022 and likely many more years to come. Learn the worse part of it to become a better developer.
 
 ---
 
